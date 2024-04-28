@@ -1,0 +1,24 @@
+{
+  "name": "serversetup_websocket",
+  "version": "1.0.0",
+  "description": "Server set up using nodejs and websocket protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soumyatechno/ServerSetup_websocket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soumyatechno/ServerSetup_websocket/issues"
+  },
+  "homepage": "https://github.com/soumyatechno/ServerSetup_websocket#readme",
+  "dependencies": {
+    "@types/ws": "^8.5.10",
+    "ws": "^8.17.0"
+  }
+}
